@@ -1,2 +1,4 @@
-# firsttry
-first try github
+# myblog
+запустит tomcat
+поставить myblog.war в папку webapp
+
